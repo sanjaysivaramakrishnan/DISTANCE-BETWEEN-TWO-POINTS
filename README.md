@@ -26,4 +26,4 @@ print('%.2f'%d)<br>
 ![image](https://github.com/sanjaysivaramakrishnan/DISTANCE-BETWEEN-TWO-POINTS/assets/151629616/0d006c96-4661-455c-824e-d4db0cb0a0f5)
 
 
-### RESULT:
+### RESULT: with we can able to find the distance between two point
